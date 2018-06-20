@@ -1,13 +1,8 @@
 ## WhereTheSNP.py ##
-## Where the snp? In which gene? Is it in CDS? Is it cause AA change? ##
+## Where the snp? Which gene it located in? Does it cause AA change? ##
 ## Author: Zhang Fei ##
 ## Please contact: zhangfei-123@foxmail.com ##
 ## 2018-06-17 ##
-
-## NOTICE ##
-## From Haijun Liu, the hmp file from JB Yan's lab do not contain the chain infomation, and the B73 SNP in that file is not the reference B73 genome
-## That means, it is no meaning to detect wether SNP and gene is in the same chain, and detect Ref and Alt AA
-## However, it is still useful to detect SNP location and give the possible functional annotation of each signle snp
 
 ## The output of this script are examed and is same with that from VEP
 
